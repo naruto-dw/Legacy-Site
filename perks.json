@@ -1,0 +1,204 @@
+{
+  "extraElement": {
+    "name": "Extra Element",
+    "type": "Tech",
+    "cost": 2,
+    "description": "Allows the user to access one extra element than their tier would allow.",
+    "prerequisites": {}
+  },
+  "secondExtraElement": {
+    "name": "Second Extra Element",
+    "type": "Tech",
+    "cost": 3,
+    "description": "Allows the user to access another extra element than their tier would allow.",
+    "prerequisites": {
+      "perks": ["extraElement"]
+    }
+  },
+  "hybridElement": {
+    "name": "Hybrid Element",
+    "type": "Bloodline",
+    "cost": 2,
+    "description": "A basic combination of two elements, e.g. Ice Release, Scorch Release.",
+    "prerequisites": {}
+  },
+  "dojutsu": {
+    "name": "Dojutsu",
+    "type": "Bloodline",
+    "cost": 3,
+    "description": "A sophisticated bloodline that allows one to access jutsu via the eyes, e.g. Byakugan, Sharingan.",
+    "prerequisites": {}
+  },
+  "kekkeiTota": {
+    "name": "Kekkei Tota",
+    "type": "Bloodline",
+    "cost": 4,
+    "description": "A rare example of a particularly powerful elemental release, e.g. Brine Release, Diamond Release.",
+    "prerequisites": {}
+  },
+  "imperfectSageMode": {
+    "name": "Imperfect Sage Mode",
+    "type": "Tech",
+    "cost": 3,
+    "description": "Allows the user to access sage chakra and use special techniques, with the help of their summon. [Minimum Tier: 1-5]",
+    "prerequisites": {
+      "skills": {
+        "summoning": 4,
+        "chakraEfficiency": 4
+      }
+    }
+  },
+  "sageMode": {
+    "name": "Sage Mode",
+    "type": "Tech",
+    "cost": 1,
+    "description": "Allows the user to access sage chakra and use special techniques. [Minimum Tier: 1-1]",
+    "prerequisites": {
+      "perks": ["imperfectSageMode"],
+      "skills": {
+        "summoning": 5,
+        "chakraEfficiency": 5
+      }
+    }
+  },
+  "mangekyouSharingan": {
+    "name": "Mangekyou Sharingan",
+    "type": "Bloodline",
+    "cost": 4,
+    "description": "Allows the user to access the Mangekyou Sharingan and use special techniques unique to them.",
+    "prerequisites": {
+      "perks": ["dojutsu"],
+      "bloodline": ["Sharingan"]
+    }
+  },
+  "puppetry": {
+    "name": "Puppetry",
+    "type": "Tech",
+    "cost": 2,
+    "description": "Allows the user to create chakra strings and control puppets.",
+    "prerequisites": {
+      "skills": {
+        "chakraEfficiency": 3
+      }
+    }
+  },
+  "humanPuppets": {
+    "name": "Human Puppets",
+    "type": "Tech",
+    "cost": 4,
+    "description": "Allows the user to create puppets out of the corpses of others, preserving their techniques.",
+    "prerequisites": {
+      "skills": {
+        "medical": 3,
+        "chakraEfficiency": 5
+      }
+    }
+  },
+  "kekkeiGenkai": {
+    "name": "Kekkei Genkai",
+    "type": "Bloodline",
+    "cost": 2,
+    "description": "For Clan users who are not using Hybrid or Dojutsu techniques that are still tied to their bloodline.",
+    "prerequisites": {}
+  },
+  "secretJutsu": {
+    "name": "Secret Jutsu",
+    "type": "Tech",
+    "cost": 2,
+    "description": "Allows the user to access the secret jutsu of a clan.",
+    "prerequisites": {}
+  },
+  "secondSecretJutsu": {
+    "name": "Second Secret Jutsu",
+    "type": "Tech",
+    "cost": 3,
+    "description": "Allows the user to access the secret jutsu of a second clan.",
+    "prerequisites": {}
+  },
+  "tailedBeast": {
+    "name": "Tailed Beast",
+    "type": "Tech",
+    "cost": 1,
+    "description": "The user has a tailed beast sealed with them (subject to staff approval)",
+    "prerequisites": {
+      "skills": {
+        "chakraCapacity": 3
+      }
+    }
+  },
+  "tailedBeastRapport": {
+    "name": "Tailed Beast Rapport",
+    "type": "Tech",
+    "cost": 3,
+    "description": "The user has a full relationship with their tailed beast, and can access greater techniques and transformations.",
+    "prerequisites": {
+      "perks": ["tailedBeast"],
+      "skills": {
+        "chakraCapacity": 5
+      }
+    }
+  },
+  "eightGatesUpToThird": {
+    "name": "Eight Gates: Up to Third",
+    "type": "Tech",
+    "cost": 3,
+    "description": "Enables the user to open up to the third gate.",
+    "prerequisites": {
+      "skills": {
+        "taijutsu": 3
+      }
+    }
+  },
+  "eightGatesUpToFifth": {
+    "name": "Eight Gates: Up to Fifth",
+    "type": "Tech",
+    "cost": 1,
+    "description": "Enables the user to open up to the fifth gate.",
+    "prerequisites": {
+      "perks": ["eightGatesUpToThird"],
+      "skills": {
+        "taijutsu": 4
+      }
+    }
+  },
+  "eightGatesUpToEighth": {
+    "name": "Eight Gates: Up to Eighth",
+    "type": "Tech",
+    "cost": 1,
+    "description": "Enables the user to open up to the eighth gate.",
+    "prerequisites": {
+      "perks": ["eightGatesUpToFifth"],
+      "skills": {
+        "taijutsu": 5
+      }
+    }
+  },
+  "curseMark": {
+    "name": "Curse Mark",
+    "type": "Tech",
+    "cost": 2,
+    "description": "Allows the user to access Stage 1 of their curse mark. Must be applied by someone else.",
+    "prerequisites": {}
+  },
+  "perfectCurseMark": {
+    "name": "Perfect Curse Mark",
+    "type": "Tech",
+    "cost": 2,
+    "description": "The user can access Stage 2 of their curse mark, and can also create new curse marks on others, granting them the Curse Mark perk for free.",
+    "prerequisites": {
+      "perks": ["curseMark"]
+    }
+  },
+  "curseMarkApplier": {
+    "name": "Curse Mark Applier",
+    "type": "Tech",
+    "cost": 1,
+    "description": "The user can apply curse marks to themselves or other people, though they still need to purchase the perk to be able to use it's power.",
+    "prerequisites": {
+      "perks": ["curseMark"],
+      "skills": {
+        "fuuinjutsu": 5
+      }
+    }
+  }
+}
