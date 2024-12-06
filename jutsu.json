@@ -2849,5 +2849,163 @@
     "jutsuRank": "S",
     "jutsuElement": "Taijutsu",
     "jutsuDescription": "The seventh activation is the final breath, set apart from the others even by its activation. While still enhanced by the sixth breath, the user strikes two specific pressure points near the lungs simultaneously, triggering a chain reaction that stimulates every tenketsu in the body. This enhances the chakra network's activity to the point it draws the aura's outwardly radiating power within the body completely, which when coupled with a last lungful of air elevates the body to super human levels; a state known as Zentai Kaigan [full body awakening]. The aura now reforms with deadly calm and absence of outbursts, wreathed around the user as if they were a furious wind elemental due to their blazing eyes and steaming flesh still visible beneath the shroud. Besides contributing to their monstrous speed and power, it turns throwing weapons largely useless as most are simply blown spinning away, melee hits no easier to land due to the brains improved ability to view the world in slow-motion. Focusing techniques even more potent as well even if no easier to perform, with the option for even higher form of offense available; by releasing a large portion of the aura shroud during a punch or sufficiently straight kick, a blast akin to a highly concentrated horizontal hurricane is fired. A method of destruction never named, for anyone who faced the devastating air cannon comparable to 'Evening Elephant' of the inner gates is typically left hoping to never encounter it again. Unsurprisingly this incurs a significantly higher cost, not only weakening the aura considerably for a time but also draining so much power 3-5 uses will use up anyone's supply, forcing the user back to base state if every bone in their arm breaking from such rapid multi-usage did not give them pause first. Lastly, significantly skilled users may utilize the shroud to slow their fall or temporarily halt it entirely; coupled with high leaps and bursts of air for directional change, a measure of flight is attained [not as free-form nor sustainable as the Light-weight rock technique however]. Despite everything, the final breath always comes with inevitable consequences, with even shorter usages causing severe dizziness if not loss of consciousness, large areas of skin littered in cuts and gashes if not peeled away or burnt from friction. Majority of the rib cage is also bound to fracture if not shatter, along with any number of bones overwhelmed by ones own strength. Needless to say the final breath should never be attempted twice without a period of significant recovery in between, or it will kill you once it's duration has expired."
-  }
+  },
+  {
+      "jutsuName": "Insect Clone Technique",
+      "jutsuRank": "D",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "An Aburame has thousands of their kikaichū (parasitic insects) gather together until they've taken on the size and appearance of the Aburame, to be used either as a decoy or a diversion. The insect clone can be created anywhere that the kikaichū are positioned or sent to, making it more useful for certain tasks than a shadow clone. When the insect clone is struck, it disperses back into a swarm of kikaichū. In the anime, the insect clones take a solid enough form to coordinate with the user for joint attacks." 
+    },
+{
+      "jutsuName": "Insect Jamming Technique",
+      "jutsuRank": "D",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "The user has a large amount of their kikaichū (parasitic insects) spread out over a wide area around themselves, having them emit a small amount of the chakra they usually feed on to confuse sensor-type shinobi. As the insects' irregular distribution and grouping together result in the creation of numerous chakra signals, it makes it more difficult to distinguish the user's actual location. Depending on the rank this jutsu is cast at depends on the range the insects can cover. " 
+    },
+{
+      "jutsuName": "Human Cocoon Technique",
+      "jutsuRank": "D",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "The user creates a cocoon around themselves to use as a waterproof 'sleeping bag'. It can also be used to hide from enemies or to spy on them." 
+    },
+{
+      "jutsuName": "Insect Rope Technique",
+      "jutsuRank": "D",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "The user releases a large number of kikaichū (parasitic insects) that form a rope that can easily support the target's weight." 
+    },
+{
+      "jutsuName": "Secret Technique: Insect Gathering",
+      "jutsuRank": "D",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "By simply touching a surface with their palm and fingers, the user releases a small web of chakra that draws bugs to that location. Since the Aburame member can communicate with insects, it can be useful to gain information by gathering local insects." 
+    },
+{
+      "jutsuName": "Secret Technique: Insect Wall",
+      "jutsuRank": "D",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "By releasing a large number of kikaichū (parasitic insects), the user creates a massive wall out of them, which protects both himself and allies nearby. The wall is strong enough to protect against large falling objects and Fire Release techniques. Only protects up to the rank this jutsu is cast at. Can scale to higher ranks." 
+    },
+{
+      "jutsuName": "Secret Technique: Insect Cocoon",
+      "jutsuRank": "C",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "This unique technique allows the user to accelerate the growth of their insects. As the user's body is already a hive of sorts for the insects, the user will encase themselves in an actual cocoon to further aid the insects. This is an extremely useful move for Aburame clan members, since their attacks mainly focus on the usage of insects. However, using this in the midst of a battle can be potentially dangerous as it leaves the user static and vulnerable. As such when this technique is being employed, the user generally finds a safe location or otherwise can be guarded by their teammate." 
+    },
+{
+      "jutsuName": "Spindle Formation",
+      "jutsuRank": "C",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "The user has their bugs attack the target in a spiraling motion in order to stop the enemy from retaliating. Used to capture enemies." 
+    },
+{
+      "jutsuName": "Insect Deception Technique",
+      "jutsuRank": "C",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "The user sends his insects underneath the opponent before springing them upon the enemy, feeding on their chakra. The technique isn't as effective if the opponent has chakra reserves which surpass the kikaichū's capacity to feed on said chakra. 10m range." 
+    },
+{
+      "jutsuName": "Insect Jar Technique",
+      "jutsuRank": "C",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "A technique capable of protecting against attacks by using kikaichū (parasitic insects) to fly in a dome shape at high speed, similar to the Eight Trigrams: Palm Rotation. While proving defensive, a sufficient amount of explosive force can break through it." 
+    },
+{
+      "jutsuName": "Iron Mountain Leaning",
+      "jutsuRank": "C",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "After creating an insect clone, the user and the clone run towards the opponent and simply tackle them. The force of this attack is strong enough to send the target flying 5m away from them." 
+    },
+{
+      "jutsuName": "Poison Cloud Technique",
+      "jutsuRank": "B",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "The user puts their hands together to form a small poisonous smokescreen sphere from his rinkaichū (poisonous insects) between their hands. The user can then blow the smokescreen across the area in front of them, the poisonous smokescreen when spread gets bigger. If touched or inhaled, the poison will temporarily (1 post) paralyze a victim after only a few seconds." 
+    },
+{
+      "jutsuName": "Secret Technique: Insect Sphere",
+      "jutsuRank": "B",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "The user sends their kikaichū to spread over a wide range, and the moment they locate the target, the insects gather at once, forming a sphere around the target. They then attach themselves to the target and begin eating away at their chakra. Even if the target manages to escape, the insects will immediately follow." 
+    },
+{
+      "jutsuName": "Secret Technique: Insect Tornado",
+      "jutsuRank": "A",
+      "jutsuElement": "Bugs",
+      "jutsuClan": "Aburame",
+      "jutsuDescription": "This technique covers the enemy's entire body with the kikaichū (parasitic insects) living inside the Aburame clan member's body. The chakra-sensing kikaichū spread over a wide range, and the moment they locate the enemy, the insects, following the user's orders, gather at once completely surrounding the target creating a fast-moving tornado that will bite anything it manages to catch, devouring chakra in the process. Can be fatal, if not escaped from." 
+    },
+{
+      "jutsuName": "Dance of the Shikigami",
+      "jutsuRank": "D",
+      "jutsuElement": "Paper",
+      "jutsuDescription": "By converting their chakra into paper, the user transforms their body (and clothing) into numerous sheets of paper; the initial creation and dispersal of the paper can mesmerize opponents." 
+    },
+{
+      "jutsuName": "Origami Spies",
+      "jutsuRank": "D",
+      "jutsuElement": "Paper",
+      "jutsuDescription": "The user can create various animals out of paper that can be used to spy on enemies. Best for information gathering." 
+    },
+{
+      "jutsuName": "Paper Shuriken",
+      "jutsuRank": "D",
+      "jutsuElement": "Paper",
+      "jutsuDescription": "A technique that consists of using chakra to harden and shape paper into shuriken. The user can increase the power of the shuriken by further altering its final shape. The paper shuriken can be folded into different shapes, including the normal four-pointed star shape and a more kunai-like shape. By combining it with some wind release jutsu, the user is able to increase their lethality." 
+    },
+{
+      "jutsuName": "Paper Weapons",
+      "jutsuRank": "C",
+      "jutsuElement": "Paper",
+      "jutsuDescription": "The user can use paper from their body to create various weapons for attack." 
+    },
+{
+      "jutsuName": "Paper Wings",
+      "jutsuRank": "C",
+      "jutsuElement": "Paper",
+      "jutsuDescription": "The user can create paper wings on their back to fly (though they can hover without them) and use them to shoot paper in rapid succession.." 
+    },
+{
+      "jutsuName": "Paper Cocoon",
+      "jutsuRank": "C",
+      "jutsuElement": "Paper",
+      "jutsuDescription": "The user can wrap their target in paper, restricting their movements and asphyxiating them." 
+    },
+{
+      "jutsuName": "Paper Chakram",
+      "jutsuRank": "B",
+      "jutsuElement": "Paper",
+      "jutsuDescription": "The user gathers a large quantity of paper sheets into a single chakram-like shape, which they then throw at the intended target. While in flight, the disc spins with tremendous speed, with its trajectory and inclination being freely manipulated by the user. This presents opportunities to attack an enemy from all angles, even if the disc is initially avoided. The discs spin so fast that a collision between the two results in a considerable impact." 
+    },
+{
+      "jutsuName": "Paper Clone",
+      "jutsuRank": "B",
+      "jutsuElement": "Paper",
+      "jutsuDescription": "A technique which employs the use of the user's ability to manipulate the shape and colour of her paper by forming it into one or more replicas of themself. When a clone is hit, it will merely turn back into sheets of paper. If need be, the user can conceal explosive tags within their paper clones to allow for a deadly surprise attack." 
+    },
+{
+      "jutsuName": "Paper Drizzle",
+      "jutsuRank": "B",
+      "jutsuElement": "Paper",
+      "jutsuDescription": "After creating wings out of paper, the user uses them to launch a multitude of paper in rapid succession at the target. This attack is strong enough to overpower C Rank and below fire jutsu." 
+    },
+{
+      "jutsuName": "Paper Person of God Technique",
+      "jutsuRank": "S",
+      "jutsuElement": "Paper",
+      "jutsuDescription": "The user disguises six hundred billion explosive tags as the surrounding scenery, be it earth or water, with enough sophistication that even the Sharingan cannot see through it. When the target is in position, the user causes the scenery to split in half, resulting in the rapid creation of a huge abyss beneath the target. Due to the sudden lack of any available foothold, the target inevitably descends ever deeper into the depths of the chasm. As the target falls, the user guides the explosive tags to stick to their body and detonate, with six hundred billion being enough for ten minutes of consecutive explosions." 
+    }
 ]
